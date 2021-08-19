@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <a href="mailto:kt_amara@esi.dz"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="mailto:tawousamara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://github.com/tawousama"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/11360812/nasreddine-bouchemel"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/16706966/amara-tawous/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Amata68650600"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp;
 <p align='center'><em><b>Everything is possible. The impossible just takes longer.</b></em>
