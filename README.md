@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently a computer Science Student at the Higher School of computer Science (ESI ALger)
 - 📝 I love Web Scraping, i do a bit of web front-end dev  
-- 👨‍💻 I use Python <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="20" height="20"/> , JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
+- 👨‍💻 I use JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
 - 💬 Need Help? i'm always listening
 - 📫 contacts are above
  
