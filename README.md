@@ -33,22 +33,13 @@ Here are some ideas to get you started:
   Hi, i'm [Tawous Amara](https://github.com/tawousama), i like experimenting with new technologies, working with positive people, building small projects, and serf GitHub and StackOverFlow. 
 
 - 💻 I’m currently a computer Science Student at the Higher School of computer Science (ESI ALger)
-- 📝 I love Web Scraping, i do a bit of web front-end dev  
-- 👨‍💻 I use JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
+- 📝 I love Odoo, I am a developer and integrator
+- 👨‍💻 I use JAVA, Python and XML 
 - 💬 Need Help? i'm always listening
 - 📫 contacts are above
  
   <br><br>
   
-* [x] Fr
-
-   Salut, je m'appelle [Amara Tawous](https://github.com/tawousama), j'aime expérimenter avec les nouvelles technologies, travailler avec des gens positives, construire des petits projets, et naviguer sur GitHub et StackOverFlow.
-  
-- 💻 Je suis actuellement étudiante d'informatique au sein de l'école supérieure d'informatique (ESI ALger)
-- 📝 J'adore le Web-Scraping, je fais du développement web coté front 
-- 👨‍💻 Je maitrise JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
-- 💬 Besoin d'aide? je suis toujours dispo
-- 📫 mes contacts sont au dessus
  
   
   
